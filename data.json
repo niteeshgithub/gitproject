@@ -1,0 +1,22 @@
+{
+   "cards":[{
+       "img":"images/iphone.jpg",
+       "name":"iphone ",
+       "price":"Rs.119000",
+       "offer":"Rs.115000",
+       "button":"view"
+    },{
+       "img":"images/pixel6pro.jpg",
+       "name":"pixel",
+       "price":"Rs.65000",
+       "offer":"Rs.62000",
+       "button":"view"
+    },{
+       "img":"images/s21ultra.jpg",
+       "name":"samsung  ",
+       "price":"Rs.105000",
+       "offer":"Rs.100000",
+       "button":"view"
+   }
+  ]
+}
